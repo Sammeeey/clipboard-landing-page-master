@@ -17,17 +17,33 @@ body {
   font-size: 16px;
 }
 
-.hero {
+h1, h2, h3 {
+  color: var(--dark-grey);
+  margin-bottom: .2em;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+p {
+  line-height: 1.6em;
+}
+
+.header {
   background: no-repeat url("images/bg-header-mobile.png");
   margin-bottom: 10em;
 }
 
-.hero .header-logo {
+.header .header-logo {
   margin: 8em auto 2em auto;
 }
 
-.hero h1 {
-  color: var(--dark-grey);
+.header h1 {
   font-size: 34px;
 }
 
@@ -53,6 +69,15 @@ body {
   background: var(--purple);
   -webkit-box-shadow: inset 0 -3px var(--purple-shade), 0px 8px 20px 0px var(--purple-shadow);
           box-shadow: inset 0 -3px var(--purple-shade), 0px 8px 20px 0px var(--purple-shadow);
+}
+
+.features img.desktop-showcase {
+  width: 320px;
+  padding: 2.8em 0 1.3em;
+}
+
+.features .info-text {
+  padding: .2em 0;
 }
 
 .attribution {
