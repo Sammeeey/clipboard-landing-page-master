@@ -37,3 +37,8 @@ For the social icons, you can use the SVGs provided or a font icon library. Some
 - [Font Awesome](https://fontawesome.com)
 - [IcoMoon](https://icomoon.io)
 - [Ionicons](https://ionicons.com)
+
+
+<!-- note/feeback
+font-size for headings not included
+shade colors for buttons not included -->
