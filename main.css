@@ -59,7 +59,7 @@ section {
   letter-spacing: 0.04em;
   text-decoration: none;
   padding: .9em 4.4em;
-  margin: 1.8em auto -.2em auto;
+  margin: 1.5em auto -.2em auto;
 }
 
 .ios-download {
@@ -92,7 +92,7 @@ img.mobile-showcase {
   margin-top: 3.2em;
 }
 
-.partners {
+section.partners {
   margin-top: -2.8em;
 }
 
@@ -113,6 +113,10 @@ img.partner {
 
 #vc-logo {
   height: 1.6em;
+}
+
+section.apps {
+  margin-top: -2em;
 }
 
 .attribution {
