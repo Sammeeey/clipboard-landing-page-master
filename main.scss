@@ -152,6 +152,10 @@ footer {
     text-decoration: none;
     color: var(--dark-grey);
     font-size: 18px;
+
+    &:hover {
+        color: var(--cyan);
+    }
 }
 
 .social-icon img {

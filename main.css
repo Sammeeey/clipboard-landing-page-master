@@ -149,6 +149,10 @@ footer {
   font-size: 18px;
 }
 
+.footer-link:hover {
+  color: var(--cyan);
+}
+
 .social-icon img {
   margin: 1em 1em 0 1em;
 }
