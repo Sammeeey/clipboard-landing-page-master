@@ -20,7 +20,7 @@ body {
 
 h1, h2, h3 {
   color: var(--dark-grey);
-  margin-bottom: .2em;
+  margin-bottom: .4em;
 }
 
 h2 {
@@ -33,10 +33,12 @@ h3 {
 
 p {
   line-height: 1.6em;
+  width: 86%;
+  margin: auto;
 }
 
 section {
-  margin-bottom: 10em;
+  margin-bottom: 11em;
 }
 
 .header {
@@ -49,6 +51,7 @@ section {
 
 .header h1 {
   font-size: 34px;
+  margin-bottom: .4em;
 }
 
 .download-button {
@@ -63,7 +66,13 @@ section {
   margin: 1.5em auto -.2em auto;
 }
 
+.download-button:hover {
+  -webkit-filter: brightness(108%);
+          filter: brightness(108%);
+}
+
 .ios-download {
+  margin-top: 1em;
   background: var(--cyan);
   -webkit-box-shadow: inset 0 -3px var(--cyan-shade), 0px 8px 20px 0px var(--cyan-shadow);
           box-shadow: inset 0 -3px var(--cyan-shade), 0px 8px 20px 0px var(--cyan-shadow);
@@ -77,11 +86,12 @@ section {
 
 img.desktop-showcase {
   width: 320px;
-  padding: 2.8em 0 1.3em;
+  padding: 5em 0 1.6em;
 }
 
 .info-text {
   padding: .2em 0;
+  margin-bottom: 1.8em;
 }
 
 img.mobile-showcase {

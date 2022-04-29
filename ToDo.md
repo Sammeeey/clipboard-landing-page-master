@@ -13,3 +13,6 @@
 - add before-after image(s)
 
 - cut complete video with all interim results
+
+### general
+- add Twitter link to every link at the end 😉
