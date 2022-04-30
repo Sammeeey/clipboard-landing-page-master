@@ -165,3 +165,7 @@ footer {
 // ### frontendmentor default attribution
 .attribution { font-size: 11px; text-align: center; display: none;}
 .attribution a { color: hsl(228, 45%, 44%); }
+
+.social-icon:hover {
+    filter: brightness(0) saturate(100%) invert(67%) sepia(28%) saturate(1027%) hue-rotate(122deg) brightness(87%) contrast(88%);
+}

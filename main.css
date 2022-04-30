@@ -166,4 +166,9 @@ footer {
 .attribution a {
   color: #3e52a3;
 }
+
+.social-icon:hover {
+  -webkit-filter: brightness(0) saturate(100%) invert(67%) sepia(28%) saturate(1027%) hue-rotate(122deg) brightness(87%) contrast(88%);
+          filter: brightness(0) saturate(100%) invert(67%) sepia(28%) saturate(1027%) hue-rotate(122deg) brightness(87%) contrast(88%);
+}
 /*# sourceMappingURL=main.css.map */
