@@ -191,5 +191,9 @@ footer {
   .header {
     background: no-repeat url("images/bg-header-desktop.png");
   }
+  .download-button {
+    padding: .9em 1.8em;
+    margin: 1.2em .4em -.2em .4em;
+  }
 }
 /*# sourceMappingURL=main.css.map */
