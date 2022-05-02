@@ -23,6 +23,10 @@ h1, h2, h3 {
   margin-bottom: .4em;
 }
 
+h1 {
+  font-size: 34px;
+}
+
 h2 {
   font-size: 30px;
 }
@@ -47,11 +51,6 @@ section {
 
 .header .header-logo {
   margin: 8em auto 2em auto;
-}
-
-.header h1 {
-  font-size: 34px;
-  margin-bottom: .4em;
 }
 
 .download-button {
@@ -170,5 +169,27 @@ footer {
 .social-icon:hover {
   -webkit-filter: brightness(0) saturate(100%) invert(67%) sepia(28%) saturate(1027%) hue-rotate(122deg) brightness(87%) contrast(88%);
           filter: brightness(0) saturate(100%) invert(67%) sepia(28%) saturate(1027%) hue-rotate(122deg) brightness(87%) contrast(88%);
+}
+
+@media only screen and (min-width: 768px) {
+  h1 {
+    font-size: 44px;
+    margin: .5em;
+  }
+  .h1-paragraph {
+    font-size: 20px;
+  }
+  .h2-paragraph {
+    font-size: 18px;
+  }
+  h2 {
+    font-size: 36px;
+  }
+  p {
+    max-width: 720px;
+  }
+  .header {
+    background: no-repeat url("images/bg-header-desktop.png");
+  }
 }
 /*# sourceMappingURL=main.css.map */
