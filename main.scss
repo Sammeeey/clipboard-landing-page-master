@@ -205,6 +205,29 @@ footer {
     // ### features section 
     .feature-container {
         display: flex;
-    }
+        gap: 0 7em;
+        
+        img.desktop-showcase {
+            flex-basis: 750px;
+            margin-left: -2.5em;
+        }
 
+        .info-container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            // align-items: flex-start;
+        }
+
+        .info-text {
+            // align-self: flex-start;
+            text-align: left;
+            max-width: 400px;
+
+            p {
+                margin-left: 0;
+            }
+        }
+
+    }
 }

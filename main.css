@@ -199,6 +199,31 @@ footer {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    gap: 0 7em;
+  }
+  .feature-container img.desktop-showcase {
+    -ms-flex-preferred-size: 750px;
+        flex-basis: 750px;
+    margin-left: -2.5em;
+  }
+  .feature-container .info-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .feature-container .info-text {
+    text-align: left;
+    max-width: 400px;
+  }
+  .feature-container .info-text p {
+    margin-left: 0;
   }
 }
 /*# sourceMappingURL=main.css.map */
