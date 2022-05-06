@@ -200,6 +200,7 @@ footer {
     display: -ms-flexbox;
     display: flex;
     gap: 0 7em;
+    margin-bottom: -3.2em;
   }
   .feature-container img.desktop-showcase {
     -ms-flex-preferred-size: 750px;
@@ -217,6 +218,7 @@ footer {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
+    margin-bottom: -1em;
   }
   .feature-container .info-text {
     text-align: left;
@@ -224,6 +226,29 @@ footer {
   }
   .feature-container .info-text p {
     margin-left: 0;
+  }
+  .benefits img.mobile-showcase {
+    width: unset;
+    max-width: 900px;
+    margin: 4em auto -1.6em auto;
+  }
+  .benefits-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-top: .8em;
+  }
+  .benefit {
+    -ms-flex-preferred-size: 400px;
+        flex-basis: 400px;
+    margin: 1em -.6em;
+  }
+  .benefit .benefit-icon {
+    height: 40px;
+    margin-bottom: .4em;
   }
 }
 /*# sourceMappingURL=main.css.map */

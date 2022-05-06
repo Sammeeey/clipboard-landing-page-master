@@ -206,6 +206,7 @@ footer {
     .feature-container {
         display: flex;
         gap: 0 7em;
+        margin-bottom: -3.2em;
         
         img.desktop-showcase {
             flex-basis: 750px;
@@ -216,18 +217,42 @@ footer {
             display: flex;
             flex-direction: column;
             justify-content: center;
-            // align-items: flex-start;
+            margin-bottom: -1em;
         }
-
+        
         .info-text {
             // align-self: flex-start;
             text-align: left;
             max-width: 400px;
-
+            
             p {
                 margin-left: 0;
             }
         }
-
+        
     }
+
+    // ### benefits section
+    .benefits img.mobile-showcase {
+        width: unset;
+        max-width: 900px;
+        margin: 4em auto -1.6em auto;
+    }
+
+    .benefits-container {
+        display: flex;
+        justify-content: center;
+        margin-top: .8em;
+    }
+
+    .benefit {
+        flex-basis: 400px;
+        margin: 1em -.6em;
+
+        .benefit-icon {
+            height: 40px;
+            margin-bottom: .4em;
+        }
+    }
+
 }

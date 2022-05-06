@@ -41,4 +41,5 @@ For the social icons, you can use the SVGs provided or a font icon library. Some
 
 <!-- note/feeback
 font-size for headings not included
-shade colors for buttons not included -->
+shade colors for buttons not included
+benefits section: different capitalization (on mobile and desktop) in heading -->
