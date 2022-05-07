@@ -1,0 +1,16 @@
+.link-container {
+  background-color: beige;
+  display: -ms-grid;
+  display: grid;
+  grid-auto-flow: column;
+  -ms-grid-rows: (minmax(2em, 3em))[2];
+      grid-template-rows: repeat(2, minmax(2em, 3em));
+  -ms-grid-columns: (minmax(6em, 8em))[3];
+      grid-template-columns: repeat(3, minmax(6em, 8em));
+}
+
+.footer-link {
+  color: green;
+  text-decoration: none;
+}
+/*# sourceMappingURL=grid.css.map */

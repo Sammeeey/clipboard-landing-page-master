@@ -1,0 +1,12 @@
+.link-container {
+    background-color: beige;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(2,minmax(2em, 3em));
+    grid-template-columns: repeat(3,minmax(6em,8em));
+}
+
+.footer-link {
+    color: green;
+    text-decoration: none;
+}
