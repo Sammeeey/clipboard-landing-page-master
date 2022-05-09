@@ -229,6 +229,7 @@ footer {
   }
   .benefits img.mobile-showcase {
     width: unset;
+    width: 90%;
     max-width: 900px;
     margin: 4em auto -1.6em auto;
   }
