@@ -98,8 +98,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [Responsive Webdesign Media Queries (w3schools)](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - This helped me to find common breakpoints for different screen sizes.
 - [Git: merge only one file (from feature branch)](https://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/) - This helped me to merge the README.md from the gridFeatures branch into the main branch (after documenting further *Useful resources*).
 - [Merging vs. Rebasing (Atlassian)](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) - This helped me to rebase the gridFeatures branch onto the main branch with *The Rebase Option*.
+  - helped me to rebase the documentFooter branch interactively onto the footerDesktop
 - [Undo Git Rebase (stackoverflow)](https://stackoverflow.com/a/135614) - This helped me to undo the incorrect rebase from above.
 - [A Complete Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me as a cheat sheet for Flexbox. Used it to systematically set up the properties.
+- [Move Branch Pointer to other Commit](https://www.w3docs.com/snippets/git/how-to-move-branch-pointer-to-different-commit.html) - This helped me to set a certain branch to a different commit by specifying the commit-hash.
 
 #### features section (desktop)
 - [CSS Grid Layout Module (w3schools)](https://www.w3schools.com/css/css_grid.asp) - This helped me to build the features section on desktop by using the grid layout. The *Try it Yourself* feature gave me an easy way to start tinkering with it and get a basic understanding of the different declarations and values.
