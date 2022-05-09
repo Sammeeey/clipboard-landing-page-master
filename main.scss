@@ -48,6 +48,7 @@ section {
 
 .header {
     background: no-repeat url('images/bg-header-mobile.png');
+    background-size: cover;
 
     .header-logo {
         margin: 8em auto 2em auto;
@@ -194,6 +195,7 @@ footer {
 
     .header {
         background: no-repeat url('images/bg-header-desktop.png');
+        background-size: cover;
     }
 
     // shape of buttons

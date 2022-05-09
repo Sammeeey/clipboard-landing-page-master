@@ -47,6 +47,7 @@ section {
 
 .header {
   background: no-repeat url("images/bg-header-mobile.png");
+  background-size: cover;
 }
 
 .header .header-logo {
@@ -190,6 +191,7 @@ footer {
   }
   .header {
     background: no-repeat url("images/bg-header-desktop.png");
+    background-size: cover;
   }
   .download-button {
     padding: .9em 1.8em;
