@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![[complete_desktop_result]](./progress_documentation\complete_desktop_result.png)
-![[complete_mobile_result]](./progress_documentation\complete_mobile_result.png)
+![complete_desktop_result](https://github.com/Sammeeey/clipboard-landing-page-master/blob/f7b3c3cc98e8cc5be2edd046c847606e524231c7/progress_documentation/complete_desktop_result.png)
+![complete_mobile_result](https://github.com/Sammeeey/clipboard-landing-page-master/blob/f7b3c3cc98e8cc5be2edd046c847606e524231c7/progress_documentation/complete_mobile_result.png)
 
 <!-- Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
