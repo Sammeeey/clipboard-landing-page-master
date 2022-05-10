@@ -106,10 +106,14 @@ Use this section to outline areas that you want to continue focusing on in futur
 #### features section (desktop)
 - [CSS Grid Layout Module (w3schools)](https://www.w3schools.com/css/css_grid.asp) - This helped me to build the features section on desktop by using the grid layout. The *Try it Yourself* feature gave me an easy way to start tinkering with it and get a basic understanding of the different declarations and values.
 - [CSS Grid Layout (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - This helped me to build the features section on desktop by using the grid layout. It especially helped me to place the different feature texts correctly.
+- [keep image ratio flexbox](https://stackoverflow.com/a/35916278) - This helped me to keep the image ratio of the desktop photo using `object-fit: contain;`
 
 #### footer (desktop)
 - [grid-auto-flow (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow) - This helped me to change the direction of the grid of links in the footer.
 - [Basic concepts of grid layout (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout) - This helped me to get a basic overview of CSS grid.
+
+#### polish/debug
+- [CSS horizontal overflow debug](https://gist.github.com/cuth/c1ddf2b1ce2fb07e512a) - This helped me to identifiy elements on the page which cause a horizontal overflow (scrollbar at bottom of page)
 
 
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
