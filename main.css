@@ -244,9 +244,7 @@ footer {
     margin-top: .8em;
   }
   .benefit {
-    -ms-flex-preferred-size: 400px;
-        flex-basis: 400px;
-    margin: 1em -.6em;
+    max-width: 400px;
   }
   .benefit .benefit-icon {
     height: 40px;
