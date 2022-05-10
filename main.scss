@@ -204,35 +204,36 @@ footer {
         margin: 3em .4em -.2em .4em;
     }
 
-    // ### features section 
+    // ### features section
+    section.features {
+        margin-bottom: 7em;
+    }
     .feature-container {
         display: flex;
+        justify-content: center; // adjust later maybe
         gap: 0 7em;
-        margin-bottom: -3.2em;
-        
-        img.desktop-showcase {
-            flex-basis: 750px;
-            margin-left: -2.5em;
+    }
+    
+    .feature-container .desktop-showcase {
+        flex: 1;
+        max-width: 752px;
+        object-fit: contain;
+        margin-left: -16%;
+    }
+
+    .feature-container .info-container {
+        text-align: left;
+        margin: 8em 0;
+
+        .info-text {
+            max-width: 410px;
         }
 
-        .info-container {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            margin-bottom: -1em;
+        p {
+            margin-left: unset;
         }
-        
-        .info-text {
-            // align-self: flex-start;
-            text-align: left;
-            max-width: 400px;
-            
-            p {
-                margin-left: 0;
-            }
-        }
-        
     }
+
 
     // ### benefits section
     .benefits img.mobile-showcase {
