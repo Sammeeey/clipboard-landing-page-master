@@ -29,6 +29,10 @@ Users should be able to:
 
 ### Screenshot
 
+
+https://user-images.githubusercontent.com/49591562/175780361-225f5ddf-0bf0-4da0-bd28-c25d602948a1.mp4
+
+
 ![complete_desktop_result](https://github.com/Sammeeey/clipboard-landing-page-master/blob/f7b3c3cc98e8cc5be2edd046c847606e524231c7/progress_documentation/complete_desktop_result.png)
 ![complete_mobile_result](https://github.com/Sammeeey/clipboard-landing-page-master/blob/f7b3c3cc98e8cc5be2edd046c847606e524231c7/progress_documentation/complete_mobile_result.png)
 
